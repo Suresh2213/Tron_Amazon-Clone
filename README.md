@@ -31,10 +31,10 @@
 - **MySQL**: MySql database for storing application data.
 
 ## DataBase Tables
-1.**Users Table**:  All registerd Users Data.
-2.**Products Table**: All Prodcuts with product Imgage.
-3.**Cart Table**: All Products that Are added in Cart by Logged In User.
-4.**Order Table**: All the Orders of All Users.
+- **Users Table**:  All registerd Users Data.
+- **Products Table**: All Prodcuts with product Imgage.
+- **Cart Table**: All Products that Are added in Cart by Logged In User.
+- **Order Table**: All the Orders of All Users.
 
 ### Frontend
 
