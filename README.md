@@ -57,47 +57,52 @@ The backend is developed using Java And Servlet.
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
+## Author :
+   **Name** :Suresh Bundhe
+   <br>
+   **Email**: sureshbundhe5@gmail.com
+   <br>
+   **LinkedIn** :  https://www.linkedin.com/in/suresh-bundhe-55909a23a
 
-If you have any questions or suggestions, feel free to reach out.
-**Linkedin:**  https://www.linkedin.com/in/suresh-bundhe-55909a23a
 
 
 
-##ScreenShotes
-1.Index Page
+
+
+##ScreenShotes <br>
+**1.Index Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/220bee7d-bcf1-4f95-8062-172ec8346283)
 
-2.Login Page
+**2.Login Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/012210c1-ecba-4022-9138-dedb5b032324)
 
-3.Registration Page
+**3.Registration Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/facd2749-dc0a-4e03-8a8c-8b776475b6ef)
 
-4.Homepage.
+**4.Homepage.**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/3693f712-2193-4620-ab37-cc92eb4dc1e0)
 
-5.Account Page
+**5.Account Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/3b724994-63d7-43bc-8bcf-63c9a1cd3df6)
 
-6.Product Page
+**6.Product Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/b67a9aa3-4149-4961-b790-63627512e11c)
 
-7.Cart Page
+**7.Cart Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/f172a056-65e9-454d-9849-0f329f8dacb2)
 
-8.Admin Panel Page
+**8.Admin Panel Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/708f44eb-db92-42d4-b7d7-d3de3dd2d331)
 
-9.Prodoct Listing Page
+**9.Prodoct Listing Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/ae23cd81-cd97-451b-8394-dcb469a77475)
 
-10.404 Error Page
+**10.404 Error Page**
 ![image](https://github.com/Suresh2213/Tron_Amazon-Clone/assets/37530605/2ee119c1-f5a7-40f4-8e25-7577a48c541d)
 
 
 
 
-
-Happy coding
+### Thanks for visit... 😊😊😊
+**Happy coding**
 
