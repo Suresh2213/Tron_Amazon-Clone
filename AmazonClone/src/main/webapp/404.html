@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Amazon.com Page Not Found</title>
+<style>
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    border: 0;
+}
+
+header {
+    background: #232f3e;
+    padding: 11px;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+header img {
+    height: 40px;
+}
+
+.search-container {
+    position: relative;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.search-input {
+    width: 100%;
+    height: 35px;
+    border: 0;
+    padding: 0 10px;
+    border-radius: 4px 0 0 4px;
+    font-size: 1em;
+}
+
+.search-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 35px;
+    background: #febd69;
+    font-weight: bold;
+    border: 0;
+    padding: 0 12px;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+@media (max-width: 500px) {
+    .search-container {
+        padding-left: 0;
+    }
+    header {
+        padding: 55px 10px 10px;
+    }
+}
+
+.main-content {
+    text-align: center;
+    margin: 30px 20px;
+}
+
+.main-content h1 {
+    margin-bottom: 20px;
+}
+
+.main-content img {
+    max-width: 90%;
+    margin-bottom: 20px;
+}
+
+.back-button {
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    transition: background 0.3s;
+}
+
+.back-button:hover {
+    background: #0056b3;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <a href="homePage.jsp"><img src="images/logoo.png" alt="Amazon.com"></a>
+    <div class="search-container">
+        <form accept-charset="utf-8" action="s.html" method="GET" role="search">
+            <input class="search-input" name="field-keywords" placeholder="Search">
+            <input class="search-button" type="submit" value="Go">
+        </form>
+    </div>
+</header>
+
+<div class="main-content">
+    <h1>Sorry, we couldn't find that page</h1>
+    <a href="https://www.aboutamazon.com/news/workplace/how-much-does-amazon-love-dogs-just-ask-one-of-the-7-000-pups-that-work-here?utm_source=gateway&utm_medium=404" target="_blank">
+        <img id="dog-image" alt="Dogs of Amazon">
+    </a>
+    <script>
+        document.getElementById("dog-image").src = "https://images-na.ssl-images-amazon.com/images/G/01/error/" + (Math.floor(Math.random() * 200) + 1) + "._TTD_.jpg";
+    </script>
+    <p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+    <a class="back-button" href="homePage.jsp">Go to Homepage</a>
+</div>
+
+</body>
+</html>
